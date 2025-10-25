@@ -1,3 +1,3 @@
 [submodule "lab1-inf-sys-backend"]
-	path = lab1-inf-sys-backend
+	path = Labs/Lab1_inf_sys/lab1-inf-sys-backend
 	url = https://github.com/mysticslippers/lab1-inf-sys-backend.git
