@@ -4,3 +4,6 @@
 [submodule "Labs/Lab1_inf_sys/lab1-inf-sys-frontend"]
 	path = Labs/Lab1_inf_sys/lab1-inf-sys-frontend
 	url = https://github.com/mysticslippers/lab1-inf-sys-frontend.git
+[submodule "Labs/Lab2_inf_sys/lab2-inf-sys-backend"]
+	path = Labs/Lab2_inf_sys/lab2-inf-sys-backend
+	url = https://github.com/mysticslippers/lab2-inf-sys-backend.git
